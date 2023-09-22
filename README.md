@@ -1,7 +1,7 @@
 # kimoi_updater
 
 
-Descarga la app: [https://github.com/yon30c/kimoi_updater/releases/download/v.1.2.2/app-release.apk](https://github.com/yon30c/kimoi_updater/releases/download/v.1.3.0-beta/app-release.apk)
+Descarga la app: https://github.com/yon30c/kimoi_updater/releases/download/v.1.3.0-beta/app-release.apk
 
 ![photo_2023-09-20_10-07-37](https://github.com/yon30c/kimoi_updater/assets/83658386/20c42666-47bc-4f2a-a7db-f70cc59e4ca6)
 ![photo_2023-09-20_10-07-34](https://github.com/yon30c/kimoi_updater/assets/83658386/6cd158a6-3fc4-44dc-bab2-2c75a1886f3d)
