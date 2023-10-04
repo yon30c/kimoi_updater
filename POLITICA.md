@@ -1,4 +1,4 @@
-Última actualización: 24-09-2023
+Última actualización: 04-10-2023
 
 Agradecemos tu interés en nuestra aplicación de animes. Queremos asegurarte que respetamos y
 protegemos tu privacidad mientras utilizas nuestra aplicación. Esta política de privacidad tiene como
@@ -6,7 +6,7 @@ objetivo proporcionarte información clara y transparente sobre cómo recopilamo
 protegemos cualquier información personal que puedas proporcionarnos.
 
 Recopilación de información:
-Nuestra aplicación de tareas no recopila ningún tipo de información personal identificable. No
+Nuestra aplicación de animes no recopila ningún tipo de información personal identificable. No
 solicitamos nombres, direcciones de correo electrónico, números de teléfono u otra información
 personal similar.
 
@@ -22,7 +22,7 @@ de nuestra aplicación.
 Seguridad de los datos:
 La seguridad de tus datos personales es importante para nosotros, y nos esforzamos por implementar
 medidas de seguridad adecuadas para proteger cualquier información que pudieras proporcionarnos.
-Aunque no recopilamos información personal en nuestra aplicación de tareas, mantenemos medidas de
+Aunque no recopilamos información personal en nuestra aplicación de animes, mantenemos medidas de
 seguridad para proteger cualquier dato local almacenado en tu dispositivo.
 
 Cambios en la política de privacidad:
